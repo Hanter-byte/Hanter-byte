@@ -1,9 +1,10 @@
 # Olá! Eu sou João
 
-<div>
-  <a href="https://github.com/Hanter-byte">
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api?username=Hanter-byte&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanter-byte&layout=compact&langs_count=7&theme=dracula"/>
+<div align="center">
+  <h1>Status</h1>
+  <a href="https://beacons.ai/HenriqueTorrico">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenriqueTorrico&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueTorrico&layout=compact&langs_count=16&theme=radical" />
 </div>
     
   <div style="display: inline_block" align="center"><br>
