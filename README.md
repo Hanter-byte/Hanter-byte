@@ -14,8 +14,8 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="João-CSS" height="40" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="João-Js" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="João-Js" height="43" width="43"
+        src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
 </div>
 <img align="right" alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="130" width="130">
 
