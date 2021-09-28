@@ -30,7 +30,7 @@
             src="https://image.flaticon.com/icons/png/512/1384/1384874.png" height="40" width="40" target="_blank"></a>
     <a href="mailto:jp663687@gmail.com"><img
             src="https://img-premium.flaticon.com/png/512/2374/premium/2374447.png?token=exp=1631718372~hmac=0e0bbe4365ff492a2b193c113b3d7f87"
-            height="40" width="40" target="_blank"></a>
+            height="40" width="40"  target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/Hanter-byte/Hanter-byte/blob/output/github-contribution-grid-snake.svg)
