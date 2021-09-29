@@ -10,12 +10,14 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Joõa-HTML" height="40" width="40"
-        src="https://cdn-icons-png.flaticon.com/512/174/174854.png">
+    <img align="center" alt="Joõa-HTML" height="43" width="43"
+        src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
     <img align="center" alt="João-CSS" height="43" width="43"
-        src="https://cdn-icons-png.flaticon.com/512/1199/1199113.png">
+        src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
     <img align="center" alt="João-Js" height="43" width="43"
         src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
+    <img align="center" alt="João-Java" height="43" width="43"
+        src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
 <img align="right" alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="130" width="130">
 
