@@ -11,13 +11,13 @@
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Joõa-HTML" height="43" width="43"
-        src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="João-CSS" height="43" width="43"
-        src="https://cdn-icons-png.flaticon.com/512/732/732190.png">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="João-Js" height="43" width="43"
-        src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png">
-    <img align="center" alt="João-Java" height="43" width="43"
-        src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+    <img align="center" alt="João-Java" height="53" width="53"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 </div>
 <img align="right" alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="130" width="130">
 
