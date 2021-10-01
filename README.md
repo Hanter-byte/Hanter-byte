@@ -27,12 +27,11 @@
 
 <div>
     <a href="https://instagram.com/joaonogsilva" target="_blank"><img
-            src="https://image.flaticon.com/icons/png/512/1419/1419499.png" height="40" width="40" target="_blank"></a>
+            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-nogueira-538942192/" target="_blank"><img
-            src="https://image.flaticon.com/icons/png/512/1384/1384874.png" height="40" width="40" target="_blank"></a>
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="mailto:jp663687@gmail.com"><img
-            src="https://img-premium.flaticon.com/png/512/2374/premium/2374447.png?token=exp=1632792181~hmac=ed96b518dd64c3c80bb6eca593286d3b"
-            height="40" width="40"  target="_blank"></a>
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/Hanter-byte/Hanter-byte/blob/output/github-contribution-grid-snake.svg)
