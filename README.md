@@ -1,13 +1,18 @@
-# Olá! Eu sou João
+<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
 
-
-<div align=center  >
-    <a href="https://github.com/Hanter-byte">
-        <img height="180"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanter-byte&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
-<div style="display: inline_block"><br>
+<table> <tr>
+                 <td>
+                            <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
+                    <ul>
+                           <li>Desenvolvedor back-end</li>
+                        <li>Cianorte-PR-Brasil</li>
+                       <li>19 anos de idade</li>
+                   </ul>
+                 </td>
+                 <td>
+                         <h4> Conhecimentos: </h4>
+                   <ul>
+                      <div style="display: inline_block"><br>
     <img align="center" alt="Joõa-HTML" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="João-CSS" height="40" width="40"
@@ -19,6 +24,16 @@
     <img align="center" alt="João-Java" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
 </div>
+</ul>
+</td>
+<td>
+
+
+<div align=center  >
+    <a href="https://github.com/Hanter-byte">
+        <img height="180"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanter-byte&layout=compact&langs_count=16&theme=dracula" />
+
 <img align="right" alt="gif" src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" height="130" width="130">
 
 ##
