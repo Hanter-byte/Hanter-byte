@@ -1,4 +1,4 @@
-<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
+<h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> Opa! e aii??  </h2>
 
 <table> <tr>
             <td>
