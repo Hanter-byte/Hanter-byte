@@ -1,16 +1,16 @@
 <h2> <img src="https://media.giphy.com/media/uBdraueIvlv0cX1C00/giphy.gif" height="60"> opa! e aii??  </h2>
 
 <table> <tr>
-                 <td>
-                            <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
-                    <ul>
-                           <li>Desenvolvedor back-end</li>
-                        <li>Cianorte-PR-Brasil</li>
-                       <li>19 anos de idade</li>
+            <td>
+                <img src="https://media.giphy.com/media/xU0iLb3NZpsWF9Ac8y/giphy.gif" height="40">
+                   <ul>
+                      <li>Desenvolvedor back-end</li>
+                      <li>Cianorte-PR-Brasil</li>
+                      <li>20 anos de idade</li>
                    </ul>
                  </td>
                  <td>
-                         <h4> Conhecimentos: </h4>
+    <h4> Conhecimentos: </h4>
                    <ul>
                       <div style="display: inline_block"><br>
     <img align="center" alt="Joõa-HTML" height="40" width="40"
