@@ -23,7 +23,7 @@
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
       <img align="center" alt="João-Java" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-      <img align="center" alt="João-Uniface" height="35" width="35"
+      <img align="center" alt="João-Uniface" height="35" width="40"
         src="https://avatars.githubusercontent.com/u/9377091?s=200&v=4">
     </div>
 </ul>
