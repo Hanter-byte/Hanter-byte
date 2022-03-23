@@ -23,8 +23,8 @@
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
       <img align="center" alt="João-Java" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
-      <img align="center" alt="João-Uniface" height="40" width="40"
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Funiface&psig=AOvVaw2SqZYUxf9ZaXU7JzC13Bki&ust=1648142197978000&source=images&cd=vfe&ved=2ahUKEwi5q6Kj3tz2AhUeiJUCHW-ZDLcQjRx6BAgAEAk">
+      <img align="center" alt="João-Uniface" height="35" width="35"
+        src="https://avatars.githubusercontent.com/u/9377091?s=200&v=4">
     </div>
 </ul>
 </td>
