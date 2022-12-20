@@ -21,8 +21,6 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="João-C#" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-      <img align="center" alt="João-Java" height="40" width="40"
-        src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
        <img align="center" alt="João-react" height="40" width="40"
         src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
     </div>
