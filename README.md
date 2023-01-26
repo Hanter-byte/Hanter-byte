@@ -10,7 +10,7 @@
                    </ul>
                  </td>
                  <td>
-    <h4> Conhecimentos: </h4>
+    <h4 align="center"> Conhecimentos: </h4>
  <ul>
      <div style="display: inline_block"><br>
        <img align="center" alt="Joõa-HTML" height="40" width="40"
