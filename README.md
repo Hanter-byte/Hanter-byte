@@ -15,6 +15,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=35&center=true&v
 graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanter-byte&bg_color=0d1117&color=A1A1AA&line=A1A1AA&point=F59E0B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
+        <p align="centre"><b>Redes</b></p>
     <a href="https://instagram.com/joaonogsilva" target="_blank"><img
             src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
             target="_blank"></a>
@@ -27,6 +28,7 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanter-byt
 </div>
 
 <div align="center"><br>
+    <p align="centre"><b>Tecnologias</b></p>
     <img align="center" alt="Joõa-HTML" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
     <img align="center" alt="João-CSS" height="40" width="40"
