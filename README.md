@@ -13,7 +13,7 @@
     <h4 align="center"> Conhecimentos: </h4>
  <ul>
      <div style="display: inline_block"><br>
-       <img align="center" alt="Joõa-HTML" height="40" width="40"
+      <img align="center" alt="Joõa-HTML" height="40" width="40"
           src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
       <img align="center" alt="João-CSS" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -21,8 +21,10 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
       <img align="center" alt="João-C#" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
-       <img align="center" alt="João-react" height="40" width="40"
+      <img align="center" alt="João-react" height="40" width="40"
         src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png">
+      <img align="center" alt="João-mysql" height="40" width="40"
+        src="[https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_logo_icon_146374.png](https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png)">
     </div>
 </ul>
 </td>
