@@ -11,8 +11,7 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=35&center=true&v
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanter-byte&layout=compact&hide_border=true&title_color=F59E0B&text_color=F59E0B&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity
-graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanter-byte&bg_color=0d1117&color=A1A1AA&line=A1A1AA&point=F59E0B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div align="center">
         <p align="centre"><b>Redes</b></p>
@@ -51,6 +50,9 @@ graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanter-byt
     <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Hanter-byte}/count.svg" /></p>
     <br>
 </div>
+
+[![Ashutosh's github activity
+graph](https://github-readme-activity-graph.cyclic.app/graph?username=Hanter-byte&bg_color=0d1117&color=A1A1AA&line=A1A1AA&point=F59E0B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F59E0B&height=120&section=footer" />
