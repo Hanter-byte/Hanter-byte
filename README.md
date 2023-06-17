@@ -38,8 +38,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=35&center=true&v
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
     <img align="center" alt="João-mysql" height="40" width="40"
         src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png">
-    <img align="center" alt="João-oracle" height="40" width="40"
-        src="https://cdn.icon-icons.com/icons2/2699/PNG/512/oracle_logo_icon_168918.png">
 </div>
 
 <div align="center">
