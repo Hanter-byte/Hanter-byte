@@ -34,8 +34,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=35&center=true&v
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
     <img align="center" alt="João-Js" height="40" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-    <img align="center" alt="João-angular" height="40" width="40"
-        src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png">
     <img align="center" alt="João-C#" height="40" width="40"
         src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png">
 </div>
