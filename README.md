@@ -15,9 +15,6 @@ SVG](https://readme-typing-svg.herokuapp.com/?color=F59E0B&size=35&center=true&v
 
 <div align="center">
         <p align="centre"><b>Redes</b></p>
-    <a href="https://instagram.com/joaonogsilva" target="_blank"><img
-            src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-            target="_blank"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro-nogueira-538942192/" target="_blank"><img
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             target="_blank"></a>
